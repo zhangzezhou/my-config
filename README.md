@@ -1,1 +1,1 @@
-# scaffold-base
+# my-config
